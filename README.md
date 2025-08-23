@@ -23,7 +23,7 @@ Check out some of my most notable repositories:
 ---
 ### 💻 Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanas17&langs_count=10&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanas17&langs_count=15&layout=compact&theme=tokyonight)
 
 ---
 
