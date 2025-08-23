@@ -16,8 +16,8 @@ Feel free to reach out to me for collaboration or just to talk tech! Here are so
 ### 🧑‍💻 My Top Repositories
 Check out some of my most notable repositories:
 
-- [Fingertips](https://github.com/saimanasg/fingertips) - A full-stack application built during my time at Northeastern University.
-- [Spring Boot WebApp with AWS and Terraform Integration](https://github.com/saimanasg/springboot-aws-infra) - A full-stack Spring Boot application integrated with PostgreSQL and AWS services (SNS, Lambda, S3). It automates the creation of AWS infrastructure using Terraform and includes a Python Lambda function for user verification emails.
+- [Fingertips](https://github.com/saimanas17/fingertips) - A full-stack application built during my time at Northeastern University.
+- [Spring Boot WebApp with AWS and Terraform Integration](https://github.com/saimanas17/springboot-aws-infra) - A full-stack Spring Boot application integrated with PostgreSQL and AWS services (SNS, Lambda, S3). It automates the creation of AWS infrastructure using Terraform and includes a Python Lambda function for user verification emails.
 
 ---
 ### 💻 Top Languages Used
