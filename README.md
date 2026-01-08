@@ -27,7 +27,7 @@ Check out some of my most notable repositories:
 ---
 ### 💻Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimanas17&show_icons=true&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimanas17&theme=tokyonight)
 
 ---
 
