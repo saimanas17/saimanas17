@@ -25,9 +25,9 @@ Check out some of my most notable repositories:
 
 
 ---
-### 💻Stats
+### 💻Top Languages Used
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimanas17&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanas17&langs_count=15&layout=compact&theme=tokyonight)
 
 ---
 
